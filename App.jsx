@@ -1,3 +1,4 @@
+// v2
 import { useState, useEffect } from “react”;
 
 const SUPABASE_URL = “https://todgsejcpjqucqaqfuiq.supabase.co”;
